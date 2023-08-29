@@ -1,0 +1,101 @@
+{
+  "projects": [
+    {
+      "name": "android",
+      "directory": "~/code/android",
+      "icon": "system-icon"
+    },
+    {
+      "name": "aws",
+      "directory": "~/code/aws",
+      "icon": "system-icon"
+    },
+    {
+      "name": "bash",
+      "directory": "~/code/bash",
+      "icon": "system-icon"
+    },
+    {
+      "name": "docker",
+      "directory": "~/code/docker",
+      "icon": "system-icon"
+    },
+    {
+      "name": "docs",
+      "directory": "~/code/docs",
+      "icon": "system-icon"
+    },
+    {
+      "name": "go",
+      "directory": "~/code/go",
+      "icon": "system-icon"
+    },
+    {
+      "name": "http",
+      "directory": "~/code/http",
+      "icon": "system-icon"
+    },
+    {
+      "name": "jmx",
+      "directory": "~/code/jmx",
+      "icon": "system-icon"
+    },
+    {
+      "name": "js",
+      "directory": "~/code/js",
+      "icon": "system-icon"
+    },
+    {
+      "name": "json",
+      "directory": "~/code/json",
+      "icon": "system-icon"
+    },
+    {
+      "name": "lua",
+      "directory": "~/code/lua",
+      "icon": "system-icon"
+    },
+    {
+      "name": "markdown",
+      "directory": "~/code/markdown",
+      "icon": "system-icon"
+    },
+    {
+      "name": "php",
+      "directory": "~/code/php",
+      "icon": "system-icon"
+    },
+    {
+      "name": "python",
+      "directory": "~/code/python",
+      "icon": "system-icon"
+    },
+    {
+      "name": "rust",
+      "directory": "~/code/rust",
+      "icon": "system-icon"
+    },
+    {
+      "name": "terraform",
+      "directory": "~/code/terraform",
+      "icon": "system-icon"
+    },
+    {
+      "name": "dumps",
+      "directory": "~/dumps",
+      "icon": "system-icon"
+    },
+    {
+      "name": "html",
+      "directory": "/var/www/html",
+      "icon": "system-icon"
+    }
+  ],
+  "cli": {
+    "editor": "lvim"
+  },
+  "gui": {
+    "rofi_menu": "~/.config/rofi/themes/catppuccin-mocha.rasi",
+    "editor": "code"
+  }
+}
